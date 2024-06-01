@@ -47,6 +47,10 @@
      /* hamburger*/
  }
 
+.hidden-heading {
+    display: none;
+}
+
  header a {
      text-decoration: none;
      color: inherit
