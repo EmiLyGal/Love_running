@@ -314,10 +314,10 @@
          border-bottom: 1px solid #3a3a3a;
      }
 
-      /* Gallery */
-      #photos {
-        column-count: 4;
-    }
+     /* Gallery */
+     #photos {
+         column-count: 4;
+     }
  }
 
  /* Screens 1200px and up) */
