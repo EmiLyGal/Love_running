@@ -34,7 +34,7 @@
  /* Header */
  header {
      background-color: #ffffff;
-     padding: 0 1 rem;
+     padding: 0 1rem;
      position: fixed;
      z-index: 99;
      width: 100%;
@@ -304,7 +304,7 @@
          position: relative;
          box-shadow: none;
          width: fit-content;
-         padding-right: 1 rem;
+         padding-right: 1rem;
      }
 
      #menu {
