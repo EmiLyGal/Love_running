@@ -407,12 +407,16 @@
          flex: 1;
      }
 
+     #benefits-physical {
+         order: 0;
+     }
+
      #benefits-image {
-         order: 0
+         order: 1;
      }
 
      #benefits-mental {
-         order: 1;
+         order: 2;
      }
 
      #benefits-mental>div {
