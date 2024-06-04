@@ -370,7 +370,7 @@
          max-width: 400px;
          position: absolute;
          left: 10%;
-         top: 150px;
+         top: 25px;
      }
 
      .text-input:hover {
@@ -426,4 +426,13 @@
      #benefits-physical>div {
          align-self: flex-end;
      }
+
+     /* Sign up page */
+
+     #signup-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
  }
